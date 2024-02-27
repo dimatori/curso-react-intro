@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dimatori/curso-react-intro.git/static/css/main.dc16f9a6.css",
+    "main.js": "/dimatori/curso-react-intro.git/static/js/main.3d3828b4.js",
+    "index.html": "/dimatori/curso-react-intro.git/index.html",
+    "static/media/delete.svg": "/dimatori/curso-react-intro.git/static/media/delete.7018c4465589031bd51c8efbe21df9ca.svg",
+    "static/media/check.svg": "/dimatori/curso-react-intro.git/static/media/check.e9a948bba52a34123d2ed7aeda0ea495.svg",
+    "main.dc16f9a6.css.map": "/dimatori/curso-react-intro.git/static/css/main.dc16f9a6.css.map",
+    "main.3d3828b4.js.map": "/dimatori/curso-react-intro.git/static/js/main.3d3828b4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc16f9a6.css",
+    "static/js/main.3d3828b4.js"
+  ]
+}
