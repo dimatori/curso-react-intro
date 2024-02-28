@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/dimatori/curso-react-intro/static/css/main.dc16f9a6.css",
-    "main.js": "/dimatori/curso-react-intro/static/js/main.53f51b12.js",
-    "index.html": "/dimatori/curso-react-intro/index.html",
-    "static/media/delete.svg": "/dimatori/curso-react-intro/static/media/delete.7018c4465589031bd51c8efbe21df9ca.svg",
-    "static/media/check.svg": "/dimatori/curso-react-intro/static/media/check.e9a948bba52a34123d2ed7aeda0ea495.svg",
-    "main.dc16f9a6.css.map": "/dimatori/curso-react-intro/static/css/main.dc16f9a6.css.map",
-    "main.53f51b12.js.map": "/dimatori/curso-react-intro/static/js/main.53f51b12.js.map"
+    "main.css": "/curso-react-intro/static/css/main.dc16f9a6.css",
+    "main.js": "/curso-react-intro/static/js/main.b40c227b.js",
+    "index.html": "/curso-react-intro/index.html",
+    "static/media/delete.svg": "/curso-react-intro/static/media/delete.7018c4465589031bd51c8efbe21df9ca.svg",
+    "static/media/check.svg": "/curso-react-intro/static/media/check.e9a948bba52a34123d2ed7aeda0ea495.svg",
+    "main.dc16f9a6.css.map": "/curso-react-intro/static/css/main.dc16f9a6.css.map",
+    "main.b40c227b.js.map": "/curso-react-intro/static/js/main.b40c227b.js.map"
   },
   "entrypoints": [
     "static/css/main.dc16f9a6.css",
-    "static/js/main.53f51b12.js"
+    "static/js/main.b40c227b.js"
   ]
 }
